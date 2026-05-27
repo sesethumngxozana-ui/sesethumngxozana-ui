@@ -9,7 +9,7 @@
 
 ### About me
 
-I'm a Computer Information Systems graduate from the University of the Free State, currently on a 12-month YES Programme placement as a **Frontend Developer at ERA Gateway** in Gauteng.
+I'm a Computer Information Systems graduate from the University of the Free State, currently on a 12-month YES Programme placement as a **Frontend Developer at Eragateway** in Gauteng.
 
 By day I'm building real projects with **React, TypeScript, CSS, Java and Kotlin**. On the side I'm teaching myself **Power BI** and data visualisation because my bigger goal is to grow into a **full-stack developer** — and eventually move into **data analytics and business intelligence**.
 

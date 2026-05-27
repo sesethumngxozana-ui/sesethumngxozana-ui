@@ -73,7 +73,7 @@ I believe in learning by doing. Every project here is something I built, contrib
 ### 📫 Let's connect
 
 <p>
-  <a href="https://linkedin.com/in/sesethu-mngxozana-88b97528b">
+  <a href="https://www.linkedin.com/in/sesethu-mngxozana-88b97528b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;

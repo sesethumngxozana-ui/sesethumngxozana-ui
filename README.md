@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Frontend Developer · CIS Graduate · Aspiring Full-Stack Developer & Data Analyst</b><br/>
-  <i>University of the Free State · YES Programme @ ERA Gateway · Bloemfontein → Gauteng, South Africa</i>
+  <i>University of the Free State · YES Programme @ Eragateway · Bloemfontein → Gauteng, South Africa</i>
 </p>
 
 ---
